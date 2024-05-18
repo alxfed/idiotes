@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Idiotes
+ῐ̓δῐώτης • (idiṓtēs) - a private person, one not engaged in public affairs.
 <pre>
-  pip install independent-machine
+  pip install idiotes
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import idiotes
 ```
